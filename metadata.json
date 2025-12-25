@@ -1,0 +1,7 @@
+{
+  "name": "NutriGPT v2",
+  "description": "A fun, hyper-personalized, AI-powered nutritionist application.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
